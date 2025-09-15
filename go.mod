@@ -1,4 +1,4 @@
-module protos
+module github.com/gorishak/edu_proto_sso
 
 go 1.25.1
 
